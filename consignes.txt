@@ -1,3 +1,7 @@
+CORRECTION : 
+https://github.com/sinouJ/ejs-app-digital-campus
+
+
 Développer un Pokédex à l’aide de pokeapi 
 
 API REST à l'aide d'express
@@ -13,9 +17,9 @@ Front => Libre choix
 
 - Ajouter et modifier des informations à un Pokémon (commentaire et possédé ou non par exemple) /2
 
-- ne pas pouvoir ajouter un Pokémon en doublon /3
+- ne pas pouvoir ajouter un Pokémon en doublon /2
 
-- Propreté du code /2
+- Propreté du code /3
 
 
 RENDU :
