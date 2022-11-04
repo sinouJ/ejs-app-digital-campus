@@ -15,7 +15,7 @@ Front => Libre choix
 - Mes favoris -> lister tous les pokemons en favoris et les supprimer des favoris /5 (Stocker en base de données)
 
 
-- Ajouter et modifier des informations à un Pokémon (commentaire et possédé ou non par exemple) /2 (Requête à votre base de données)
+- Ajouter et modifier des informations à un Pokémon déjà ajouté en favori (commentaire et possédé ou non par exemple) /2 (Requête à votre base de données)
 
 - ne pas pouvoir ajouter un Pokémon en doublon /2 (Requête à votre base de données)
 
